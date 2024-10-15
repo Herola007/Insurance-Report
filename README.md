@@ -3,6 +3,9 @@
 
 ![Insurance_report](https://github.com/Herola007/Insurance-Report/blob/main/Insurance_Report_Illustration.jpg?raw=true)
 
+## Dashboard
+![Dashboard](https://github.com/Herola007/Insurance-Report/blob/main/Car%20Insurance%20Report.png?raw=true)
+
 ## Objectives and Recommendations
 1. The company's primary objective, as discussed with the representative, is to analyze car insurance usage distribution by gender. The dashboard reveals an almost equal split between female and male users, with females accounting for 50.09% and males for 49.91%. Interestingly, despite their higher representation, female clients had lower total claim amounts, with $937.6 million compared to $940.5 million for males.
 
@@ -17,12 +20,6 @@
 3. The company's third objective is to examine the relationship between clients' education levels and their claim amounts. Generally, higher education is linked to more responsible behavior, which could result in fewer claims. However, the dashboard shows that clients with a bachelor's degree accounted for the highest total claims at $940.2 million, followed by high school graduates at $518 million, master's degree holders at $283 million, and PhD holders at $136.9 million.
 
    As part of my analysis, I identified potential fraud patterns among clients with bachelor's degrees, raising concerns that merit further scrutiny. The company's representative has confirmed that a review will be conducted to assess the legitimacy of these claims and take appropriate action if necessary.
-
-
-## Dashboard
-![Dashboard](https://github.com/Herola007/Insurance-Report/blob/main/Car%20Insurance%20Report.png?raw=true)
-
-
 
 
 
