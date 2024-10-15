@@ -20,6 +20,8 @@
 
 
 ## Dashboard
+![Dashboard](https://github.com/Herola007/Insurance-Report/blob/main/Car%20Insurance%20Report.png?raw=true)
+
 
 
 
